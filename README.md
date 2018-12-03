@@ -110,4 +110,7 @@ def plot_result():
   plt.ylim([70, 130])
 
 plot_result()
+
+print('365percent')
+(test_data.index, model.predict(test_data))
 ```
